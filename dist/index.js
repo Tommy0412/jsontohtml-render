@@ -21,17 +21,17 @@ const defaultStyles = {
     },
   },
   comments: {
-    show: true,
+    show: false,
     color: 'gray',
     space_from_left: '35px',
   },
   retractors: {
-    show: true,
+    show: false,
     color: '#8c8c8c',
     space_from_left: '37px',
   },
   line_numbers: {
-    show: true,
+    show: false,
     color: '#5c749c',
     space_from_left: '30px',
   },
